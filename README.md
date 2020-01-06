@@ -14,21 +14,21 @@ Sincerely,
 Zach Preston 
 
 
-                                                        Zachary Preston's Resume
+Zachary Preston's Resume
+
 Objective: As an industrial maintenance technician at Toyota Motor Manufacturing West Virginia, Zach attended Marshall University as a mechanical engineering student. He has three years of work and education experience. He is wanting to pursue a Manufacturing, Mechanical, Electrical, or Systems Engineering position to challenge his understanding of MatLAB, Microsoft Office applications and various AutoCAD Softeware Packages. 
 _________________________________________________________________________________________________________________________________
 
-Highlights Include: 
-   --> Eagle Scout Award
-   --> FIRST TECH Challenge Involvement
-   --> 3273 Wayne High School Vex Robotics Team Captain
-   --> Lockheed Martin STEM Scholar
+Highlights Include:                                                                                                                        --> Eagle Scout Award                                                                                                                  --> FIRST TECH Challenge Involvement                                                                                                    --> 3273 Wayne High School Vex Robotics Team Captain
+   
+   --> Lockheed Martin STEM Scholar                                                                                                    
    --> Toyota Advanced Manufacturing Technician 
    --> Project Lead the Way Engineering Student
    --> Presentation Skills (Public Speaking)
    --> Knows Manufacturing Processes 
    --> Has Mechanical, Fluid Power, Electrical Repair Experience
    --> Program Applications: AutoCAD Inventor/ Mecahanical/ Electrical, Powerpoint, Excel, Word, MatLAB
+  
 _________________________________________________________________________________________________________________________________
 Work Experience:
 Steel of West Virginia | Engineering Co-Op | May 2019 - October 2019
