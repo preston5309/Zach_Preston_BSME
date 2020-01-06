@@ -19,8 +19,9 @@ Zachary Preston's Resume
 Objective: As an industrial maintenance technician at Toyota Motor Manufacturing West Virginia, Zach attended Marshall University as a mechanical engineering student. He has three years of work and education experience. He is wanting to pursue a Manufacturing, Mechanical, Electrical, or Systems Engineering position to challenge his understanding of MatLAB, Microsoft Office applications and various AutoCAD Softeware Packages. 
 _________________________________________________________________________________________________________________________________
 
-Highlights Include:                                                                                                                        --> Eagle Scout Award                                                                                                                  --> FIRST TECH Challenge Involvement                                                                                                    --> 3273 Wayne High School Vex Robotics Team Captain
-   
+Highlights Include:                                                                                                                  
+   --> Eagle Scout Award                                                                                                                  --> FIRST TECH Challenge Involvement  
+   --> 3273 Wayne High School Vex Robotics Team Captain
    --> Lockheed Martin STEM Scholar                                                                                                    
    --> Toyota Advanced Manufacturing Technician 
    --> Project Lead the Way Engineering Student
