@@ -12,3 +12,41 @@ With the type of technical experience that I gained early on in my industrial ma
 
 Sincerely, 
 Zach Preston 
+
+
+                                                        Zachary Preston's Resume
+Objective: As an industrial maintenance technician at Toyota Motor Manufacturing West Virginia, Zach attended Marshall University as a mechanical engineering student. He has three years of work and education experience. He is wanting to pursue a Manufacturing, Mechanical, Electrical, or Systems Engineering position to challenge his understanding of MatLAB, Microsoft Office applications and various AutoCAD Softeware Packages. 
+_________________________________________________________________________________________________________________________________
+
+Highlights Include: 
+   --> Eagle Scout Award
+   --> FIRST TECH Challenge Involvement
+   --> 3273 Wayne High School Vex Robotics Team Captain
+   --> Lockheed Martin STEM Scholar
+   --> Toyota Advanced Manufacturing Technician 
+   --> Project Lead the Way Engineering Student
+   --> Presentation Skills (Public Speaking)
+   --> Knows Manufacturing Processes 
+   --> Has Mechanical, Fluid Power, Electrical Repair Experience
+   --> Program Applications: AutoCAD Inventor/ Mecahanical/ Electrical, Powerpoint, Excel, Word, MatLAB
+_________________________________________________________________________________________________________________________________
+Work Experience:
+Steel of West Virginia | Engineering Co-Op | May 2019 - October 2019
+   --> Focused on Logistics, Electrical, Mechanical, and Process Oriented Engineering Projects
+
+Skilled Variable Team Member Toyota Motor Manufacturing West Virginia
+Drivetrain Gear Line Support/ Predictive Maintenance Technician | June 2018 - July 2019
+   --> Supported Gear and Heat Treat Operations
+   --> Planned and Installed Predictive Maintenance Solutions Systems at Toyota Alabama, Kentucky, and West Virginia
+   --> Gave Presentation to Corporate Level North American Toyota Executives
+   --> Completed Continuous Improvement Projects that Paid One Year of My Salary
+
+United Talent Advanced Manufacturing Technician Toyota Motor Manufacturing West Virginia | Aug 2016-June 2018
+   --> Supported Engine and Transmission Assembly and Machining Operations
+   --> Experienced Working on Electron Beam Welders, Ultrasonic Testers, Engine Test, Transmission Test, Laser Cutters, Lathes,          Carburization Furnace, Spindle, and Other Automoated CNC Machines
+   --> Led Failure Modes Effects Analysis (FMEA) on Most Critical Machines and Processes
+   
+Ferguson Monuments | Computer Operator/ Laborer | March 2013- Aug 2016
+   --> Designed Backgrounds for Granite Tombstones
+_________________________________________________________________________________________________________________________________
+
