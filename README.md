@@ -1,7 +1,5 @@
 # Welcome to Zach's Work Sample Page
 
-December 23, 2019
-
 Hello Recruiters and Hiring Managers,
 
 Have you ever wanted to find the best of both worlds? 
